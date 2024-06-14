@@ -7,10 +7,14 @@ Este projeto demonstra a implementação de uma estrutura de dados de pilha em J
 A estrutura do projeto é a seguinte:
 
 src/
+
 ├── main/
-│ └── Main.java
+
+    └── Main.java
+
 ├── pilhaJava/
-│ └── Stack.java
+
+    └── Stack.java
 
 - **Main.java**: Contém o método principal e a lógica para inverter um array de números utilizando a pilha.
 - **Stack.java**: Implementa a estrutura de dados de pilha.
